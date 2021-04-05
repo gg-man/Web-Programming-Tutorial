@@ -11,10 +11,13 @@ Recuerda subscribirte, darle like al video y dejar un comentario acerca de temas
 Github:
 https://github.com/gg-man/Web-Programming-Tutorial/edit/main/Video_01
 
-Recursos:
+### Recursos:
 Tutoriales y referencia - w3schools: https://www.w3schools.com/
+
 Preguntas acerca de programación - stackoverflow: https://stackoverflow.com/
+
 Test Html, Css, Js code - JSFiddle: https://jsfiddle.net/
+
 El mejor buscador - Duckduckgo: https://duckduckgo.com/
 
 Espero les guste el video y los tutoriales que estan por venir!
