@@ -1,4 +1,4 @@
-YouTube Tutorial: https://youtu.be/V5gtr2jjYOk
+YouTube Tutorial: https://youtu.be/sblxbjQhGe0
 
 En este video aprenderas lo mas básico acerca de HTML, cúal es la estructura básica y algunos de los tags que mas utilizarás a lo largo de todo el tutorial.
 
