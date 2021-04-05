@@ -9,7 +9,7 @@ w3schools HTML Reference: https://www.w3schools.com/tags/ref_byfunc.asp
 Recuerda subscribirte, darle like al video y dejar un comentario acerca de temas de los que quieras aprender o si tienes alguna pregunta acerca de los videos.
 
 Github:
-https://github.com/gg-man/Web-Programming-Tutorial/edit/main/Video_01
+https://github.com/gg-man/Web-Programming-Tutorial.git
 
 ### Recursos:
 Tutoriales y referencia - w3schools: https://www.w3schools.com/
